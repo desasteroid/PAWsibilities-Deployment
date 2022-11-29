@@ -1,0 +1,15 @@
+#request-header{
+    text-align: center;
+    padding-bottom: 3rem;
+    color: #f14b6e;
+}
+#review-header{
+    text-align: center;
+    font-size: 45px;
+    padding-bottom: 1.8rem;
+    color: #8bc34a;
+}
+.form-container{
+    width: 80%;
+    margin: auto;
+}

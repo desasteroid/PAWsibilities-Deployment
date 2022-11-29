@@ -1,0 +1,29 @@
+#header{
+    text-align: center;
+    /* color:#E91E63  !important; */
+    margin-top:80px;
+    margin-bottom: 35px;
+    font-size: 60px;
+}
+#Form{
+    width : 40%;
+    margin:auto;
+    margin-bottom: 50px;
+}
+#button{
+    display: flex !important;
+    justify-content: center;
+    margin-top: 50px !important;
+    margin-bottom: 80px !important;
+}
+.form-field{
+    margin-bottom: 2rem !important;
+}
+#termscond{
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+}
+.Label{
+    font-weight: 550 !important;
+    color: #f14b6e;
+}

@@ -1,0 +1,19 @@
+#title-text
+{
+    font-family: 'Playfair Display',serif;
+    font-size: 60px;
+    line-height: 40px;
+    text-align: center;
+    color: deeppink ;
+    margin-bottom: 60px;
+}
+#ChooseUs-Content{
+    color:#fff;
+    max-width: 80%;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
+#ChooseUs-Container{
+    margin-bottom: 80px;
+}

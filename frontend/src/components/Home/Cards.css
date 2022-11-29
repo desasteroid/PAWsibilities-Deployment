@@ -1,0 +1,14 @@
+.cards-container{
+    display: flex;
+    justify-content: space-between;
+    max-width: 95%;
+    margin: auto;
+    margin-bottom: 80px;
+}
+.cards-swipeable{
+    flex-basis: 30%;
+    vertical-align: center;
+}
+.card{
+    font-size: 20px;
+}

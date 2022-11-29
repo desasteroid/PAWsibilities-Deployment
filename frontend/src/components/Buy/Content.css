@@ -1,0 +1,20 @@
+.heading{
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    margin-right: 5px;
+    /* font-size: 60px; */
+    /* color: #fff; */
+}
+.content-container{
+   width: 93%;
+   margin: auto;
+   padding-bottom: 3rem;
+}
+.locations{
+    padding-bottom: 1rem;
+}
+.placename{
+    padding-bottom: 1rem;
+    color: #8bc34a;
+}

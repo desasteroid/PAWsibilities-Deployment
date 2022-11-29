@@ -1,0 +1,23 @@
+.tagline{
+    background-image: linear-gradient(0deg, rgba(0,255,0,0.3), rgba(255,0,0,0.2)),url("./tagline.jpg");
+    min-height:500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 80px;
+    
+}
+.tagline h1{
+    font-family: 'Playfair Display',serif;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 40px;
+    text-transform: none;
+    color:#fff;
+    /* -webkit-text-stroke: 0.5px black;     */
+}

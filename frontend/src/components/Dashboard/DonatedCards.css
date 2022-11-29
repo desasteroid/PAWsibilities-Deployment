@@ -1,0 +1,57 @@
+.Deleterow{
+    display: flex;
+    justify-content: flex-end;
+}
+.icon:hover{
+    color: red;
+}
+
+.cards-container{
+    width: 95%;
+    margin: auto;
+    padding-bottom: 6rem;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    flex-wrap: wrap;
+    margin-bottom: 4rem;
+    align-content: flex-start;
+}
+
+.dashboard-container{
+    width: 95%;
+    margin: auto;
+    padding-bottom: 6rem;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 4rem;
+    flex-wrap: wrap;
+    margin-bottom: 4rem;
+    align-content: flex-start;
+}
+
+.adopt-card-container{
+    width: 95%;
+    margin: auto;
+    padding-bottom: 6rem;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 4rem;
+    flex-wrap: wrap;
+    margin-bottom: 4rem;
+    align-content: flex-start;
+    min-height: 350px;
+}
+
+.c1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    width:20rem;
+    margin-bottom: 3rem;
+    align-content: flex-start;
+}
+.MuiButton-root {
+    position: relative;
+    left: 12rem;
+}

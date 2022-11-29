@@ -1,0 +1,12 @@
+.welcome-message{
+    margin-top:60px;
+    margin-bottom: 85px;
+}
+#message{
+    text-align: center; 
+    font-size: 50px;
+}
+#donate-text-header{
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
